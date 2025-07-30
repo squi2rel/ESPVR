@@ -8,8 +8,7 @@ Inner Copper Weight: 0.5oz
 Layer Stackup: JLC04161H-3313
 
 There are two boards: MainBoard and Connector  
-(image)  
-(image)  
+![IMG_20241223_234920_1](https://github.com/user-attachments/assets/fba6a640-cac7-4c34-a2fd-6e60d7717785) 
 Connector is designed for this Google Cardboard HMD and LS055R1SX04 panel. If you are using different ones, you may need make your own connector board.  
-(image)  
-They are connected by 5cm fpc
+![IMG_20250730_151604](https://github.com/user-attachments/assets/ed0f124d-6f58-499a-90ab-d42da6b9ee09)
+They are connected by 5cm fpc, one is 40p, another is 10p
