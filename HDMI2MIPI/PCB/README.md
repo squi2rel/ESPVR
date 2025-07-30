@@ -1,3 +1,6 @@
+These boards only have ~53hz refresh rate
+
+# PCB
 Use JLCPCB for Best Compatibility  
 Base Material: FR-4  
 Layers: 4  
