@@ -1,0 +1,12 @@
+F:\HadesVR\Software\Driver\src\samples\driver_HadesVR\src\dataHandler.cpp;F:\HadesVR\Software\Driver\src\samples\driver_HadesVR\driver_HadesVR\x64\Release\dataHandler.obj
+F:\HadesVR\Software\Driver\src\samples\driver_HadesVR\src\dataHandler_IMU.cpp;F:\HadesVR\Software\Driver\src\samples\driver_HadesVR\driver_HadesVR\x64\Release\dataHandler_IMU.obj
+F:\HadesVR\Software\Driver\src\samples\driver_HadesVR\src\driverlog.cpp;F:\HadesVR\Software\Driver\src\samples\driver_HadesVR\driver_HadesVR\x64\Release\driverlog.obj
+F:\HadesVR\Software\Driver\src\samples\driver_HadesVR\src\driver_main.cpp;F:\HadesVR\Software\Driver\src\samples\driver_HadesVR\driver_HadesVR\x64\Release\driver_main.obj
+F:\HadesVR\Software\Driver\src\samples\driver_HadesVR\src\filters\MadgwickOrientation.cpp;F:\HadesVR\Software\Driver\src\samples\driver_HadesVR\driver_HadesVR\x64\Release\MadgwickOrientation.obj
+F:\HadesVR\Software\Driver\src\samples\driver_HadesVR\src\filters\SimpleKalman.cpp;F:\HadesVR\Software\Driver\src\samples\driver_HadesVR\driver_HadesVR\x64\Release\SimpleKalman.obj
+F:\HadesVR\Software\Driver\src\samples\driver_HadesVR\src\filters\V3Kalman.cpp;F:\HadesVR\Software\Driver\src\samples\driver_HadesVR\driver_HadesVR\x64\Release\V3Kalman.obj
+F:\HadesVR\Software\Driver\src\samples\driver_HadesVR\src\HandTracking.cpp;F:\HadesVR\Software\Driver\src\samples\driver_HadesVR\driver_HadesVR\x64\Release\HandTracking.obj
+F:\HadesVR\Software\Driver\src\samples\driver_HadesVR\src\HIDTransport.cpp;F:\HadesVR\Software\Driver\src\samples\driver_HadesVR\driver_HadesVR\x64\Release\HIDTransport.obj
+F:\HadesVR\Software\Driver\src\samples\driver_HadesVR\src\ringbuffer.c;F:\HadesVR\Software\Driver\src\samples\driver_HadesVR\driver_HadesVR\x64\Release\ringbuffer.obj
+F:\HadesVR\Software\Driver\src\samples\driver_HadesVR\src\SocketTransport.cpp;F:\HadesVR\Software\Driver\src\samples\driver_HadesVR\driver_HadesVR\x64\Release\SocketTransport.obj
+F:\HadesVR\Software\Driver\src\samples\driver_HadesVR\src\UARTTransport.cpp;F:\HadesVR\Software\Driver\src\samples\driver_HadesVR\driver_HadesVR\x64\Release\UARTTransport.obj
