@@ -19,8 +19,8 @@
 #define BG_LED 18
 
 // replace with your SSID and password
-#define WIFI_SSID ssid
-#define WIFI_PASSWORD password
+#define WIFI_SSID "ssid"
+#define WIFI_PASSWORD "password"
 
 // must be same as driver config
 const int socketPort = 6699;
